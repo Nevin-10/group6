@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nevin-10/group6/static/css/main.f855e6bc.css",
+    "main.js": "/Nevin-10/group6/static/js/main.10a91b11.js",
+    "static/js/453.19c75634.chunk.js": "/Nevin-10/group6/static/js/453.19c75634.chunk.js",
+    "static/media/logo.svg": "/Nevin-10/group6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nevin-10/group6/index.html",
+    "main.f855e6bc.css.map": "/Nevin-10/group6/static/css/main.f855e6bc.css.map",
+    "main.10a91b11.js.map": "/Nevin-10/group6/static/js/main.10a91b11.js.map",
+    "453.19c75634.chunk.js.map": "/Nevin-10/group6/static/js/453.19c75634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.10a91b11.js"
+  ]
+}
